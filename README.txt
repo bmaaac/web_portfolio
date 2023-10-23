@@ -1,7 +1,7 @@
-## Personal Web Portfolio
+## Personal Web Portfolio ##
 
 ``````````````````````````````````````````
-_https://bmaaac.github.io/web_portfolio/_
+https://bmaaac.github.io/web_portfolio/
 ``````````````````````````````````````````
 
 👋 **Hi, I’m Brian** 👀
