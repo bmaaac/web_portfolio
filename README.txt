@@ -1,5 +1,9 @@
-Personal Portfolio Website
-https://bmaaac.github.io/web_portfolio/
+## Personal Web Portfolio
 
-👋 Hi, I’m Brian 👀
-This site is used for showcasing my work and other projects, feel free to browse it :)
+``````````````````````````````````````````
+_https://bmaaac.github.io/web_portfolio/_
+``````````````````````````````````````````
+
+👋 **Hi, I’m Brian** 👀
+
+This site is used for showcasing my work and other projects, Currently it is a work in progress so feel free to browse it.
